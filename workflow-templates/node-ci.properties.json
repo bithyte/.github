@@ -1,0 +1,7 @@
+{
+  "name": "bithyte Node CI",
+  "description": "Install, check and test a Node project using the shared bithyte workflow.",
+  "iconName": "octicon package",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package.json$"]
+}
